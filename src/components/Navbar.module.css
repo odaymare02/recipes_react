@@ -1,0 +1,11 @@
+img{
+    height: 200px;
+    object-fit: contain;
+}
+.navitemsCustom{
+    color: #fff !important;
+    transition: all 0.5s;
+}
+.navitemsCustom:hover{
+    color: #b3aaaa !important;
+}
